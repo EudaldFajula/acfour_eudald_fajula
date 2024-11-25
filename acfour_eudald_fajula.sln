@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acfour_eudald_fajula", "acfour_eudald_fajula.csproj", "{FC1AA7FE-E6BD-4ACA-B468-09F7C1366E6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "acfour_eudald_fajula", "acfour_eudald_fajula.csproj", "{FC1AA7FE-E6BD-4ACA-B468-09F7C1366E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acfour_eudald_fajula_test", "..\acfour_eudald_fajula_test\acfour_eudald_fajula_test.csproj", "{184ECA84-DCFB-45AF-8F5B-8114EF91E23A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acfour_eudald_fajula_library", "..\acfour_eudald_fajula_library\acfour_eudald_fajula_library.csproj", "{B22C3ECC-EE1A-4421-AA43-18FCE7A66F98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FC1AA7FE-E6BD-4ACA-B468-09F7C1366E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC1AA7FE-E6BD-4ACA-B468-09F7C1366E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC1AA7FE-E6BD-4ACA-B468-09F7C1366E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184ECA84-DCFB-45AF-8F5B-8114EF91E23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184ECA84-DCFB-45AF-8F5B-8114EF91E23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184ECA84-DCFB-45AF-8F5B-8114EF91E23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184ECA84-DCFB-45AF-8F5B-8114EF91E23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22C3ECC-EE1A-4421-AA43-18FCE7A66F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22C3ECC-EE1A-4421-AA43-18FCE7A66F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22C3ECC-EE1A-4421-AA43-18FCE7A66F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22C3ECC-EE1A-4421-AA43-18FCE7A66F98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

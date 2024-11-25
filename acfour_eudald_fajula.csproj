@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\acfour_eudald_fajula_library\acfour_eudald_fajula_library.csproj" />
+  </ItemGroup>
+
 </Project>
